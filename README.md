@@ -52,5 +52,6 @@ If you are still having trouble, you can always clone the repository by running 
 
 ```bash
 cd path/to/your/stat133/folder
-git clone https://github.com/berkeley-stat133/worksheet-lab3
+git clone git@github.com:berkeley-stat133/worksheet-lab3
+# or https://github.com/berkeley-stat133/worksheet-lab3
 ```
